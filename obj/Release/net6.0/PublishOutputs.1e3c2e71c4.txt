@@ -1,0 +1,7 @@
+/home/nitin/source/repos/azure-aspnet-core-webapp/bin/Release/net6.0/publish/azure-aspnet-core-webapp
+/home/nitin/source/repos/azure-aspnet-core-webapp/bin/Release/net6.0/publish/appsettings.Development.json
+/home/nitin/source/repos/azure-aspnet-core-webapp/bin/Release/net6.0/publish/appsettings.json
+/home/nitin/source/repos/azure-aspnet-core-webapp/bin/Release/net6.0/publish/azure-aspnet-core-webapp.dll
+/home/nitin/source/repos/azure-aspnet-core-webapp/bin/Release/net6.0/publish/azure-aspnet-core-webapp.deps.json
+/home/nitin/source/repos/azure-aspnet-core-webapp/bin/Release/net6.0/publish/azure-aspnet-core-webapp.runtimeconfig.json
+/home/nitin/source/repos/azure-aspnet-core-webapp/bin/Release/net6.0/publish/azure-aspnet-core-webapp.pdb
